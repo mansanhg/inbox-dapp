@@ -1,4 +1,12 @@
 # inbox-dapp
 Solidity test project #1 - Inbox dApp
 
-This project deploy a smart contract to the Rinkeby Ethereum test network. It also executes test functions on the smart contract using mocha and ganache. The deployed smart contract can be found at address: 0xa7e4EF748F3F995025b99f53D37b3b72F7Ba2Dfa
+Description:
+This smart contract will store a string variable in the blockchain and has a function to change the value in the blockchain
+
+Objective:
+- Understand the basic structure of a smart contract
+- Build a .sol file using the solc compiler
+- Deploy the smart contract to the ganache internal network
+- Execute unit tests on the smart contract using ganache
+- Deploy the smart contract to the Rinkeby Ethereum Test Network and obtain an address
